@@ -18,11 +18,13 @@ TRTA Numbers（ティーアルティーエイ・ナンバーズ）は帝都高�
 
 鋭い角を持つ、通常のスタイルです。
 
-[TTFファイルはこちら](./ttf/trta_numbers_sharp.ttf)
-
 ### TRTA Numbers Rounded
 
-一部の字形の角が丸められたスタイルです（近日リリース予定）。
+一部の字形の角が丸められたスタイルです。
+
+## ダウンロード
+
+[リリースページ](https://github.com/ryo-a/TRTA-Numbers-Font/releases)から最新のバージョンをダウンロードしてください。ttfとwoff2が利用可能です。
 
 ## 製作の動機
 
