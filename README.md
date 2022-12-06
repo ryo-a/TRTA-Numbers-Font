@@ -1,6 +1,6 @@
 # TRTA Numbers
 
-![](./imgs/sample_sharp.png)
+![](./imgs/sample.png)
 
 TRTA Numbers（ティーアルティーエイ・ナンバーズ）は帝都高速度交通営団（現：東京メトロ）の車両番号などに使用されている書体にインスパイアされた数字専用フォントです。
 
